@@ -7,3 +7,10 @@
 
 # Intro
 - Тhe main purpose of this app is to manage our daily tasks. One of the most popular web development frameworks was used to build the application - Django. It can be used for different users and with databases we can manage separate data for each user. 
+
+## Table of Content:
+
+- Python()
+- Django()
+- HTML()
+- CSS()
