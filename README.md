@@ -14,3 +14,15 @@
 - Django
 - HTML
 - CSS
+
+## Installation
+
+Clone the repo with git clone https://github.com/zahariev-webbersof/week24.git
+
+Run pip install -r requirements.txt. Run python setup.py install
+
+INSTALLED_APPS = (
+    ...
+    'base.apps.BaseConfig'
+    ...
+)
