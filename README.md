@@ -21,8 +21,8 @@ Clone the repo with git clone https://github.com/zahariev-webbersof/week24.git
 
 Run python setup.py install
 
-INSTALLED_APPS = (
-    ...
-    'base.apps.BaseConfig'
-    ...
-)
+    INSTALLED_APPS = (
+        ...
+        'base.apps.BaseConfig'
+        ...
+    )
