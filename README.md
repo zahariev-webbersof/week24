@@ -14,6 +14,7 @@
 - Django
 - HTML
 - CSS
+- DB sqlite3
 
 ## Installation
 
